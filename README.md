@@ -13,7 +13,7 @@ Incremental Task learning (ITL) is a category of continual learning that seeks t
 If you use this code in your research, please cite this paper: 
  
 ```
-@inproceedings{hyder2022rank_increment,
+@inproceedings{hyder2022incremental,
   title={Incremental Task Learning with Incremental Rank Updates},
   author={Hyder, Rakib and Shao, Ken and Hou, Boyu and Markopoulos, Panos and Prater-Bennette, Ashley and Asif, M Salman},
   booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
